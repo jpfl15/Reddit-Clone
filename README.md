@@ -1,3 +1,5 @@
+This project was built by following the tutorial by [Tech With Tim](https://youtu.be/N2vE2bP5Mok?si=BbdJwxLuwcEjsVLE)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
